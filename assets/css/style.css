@@ -1,0 +1,63 @@
+h1, h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 10px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+#topBar a {
+  float: right;
+  
+}
+
+#topBar {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+  background-color: #666;
+}
+
+#topBar span {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#aboutMeImg {
+    float: left;
+}
+
+h1 {
+  line-height: 12px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+  position: fixed;
+  top: 30px;
+  background-color: #fff;
+  border-color: #ddd;
+  border-style: solid;
+  border-width: 5px;
+  width:960px;
+  margin: 0px auto;
+  padding: 15px;
+  position: relative;
+  top: 150px;
+}
+
+#footer {
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  bottom: 0px;
+  padding: 10px;
+  text-align: center;
+  background-color: #666;
+
+}
